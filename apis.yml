@@ -1,0 +1,44 @@
+aid: pandas
+name: Pandas
+description: >-
+  Pandas is a fast, powerful, flexible and easy to use open source data
+  analysis and manipulation tool, built on top of the Python programming
+  language. It provides data structures and data analysis tools.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Python
+  - Data Analysis
+  - Data Science
+  - Open Source
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/pandas/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis:
+  - aid: pandas:pandas
+    name: Pandas
+    description: >-
+      Open source data analysis and manipulation library for Python.
+    humanURL: https://pandas.pydata.org/
+    tags:
+      - Python
+      - Data Analysis
+    properties:
+      - type: Documentation
+        url: https://pandas.pydata.org/docs/
+      - type: Getting Started
+        url: https://pandas.pydata.org/docs/getting_started/index.html
+common:
+  - type: Website
+    url: https://pandas.pydata.org/
+  - type: Documentation
+    url: https://pandas.pydata.org/docs/
+  - type: GitHub Organization
+    url: https://github.com/pandas-dev/pandas
+  - type: Community
+    url: https://pandas.pydata.org/community/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
