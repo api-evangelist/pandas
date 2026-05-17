@@ -26,9 +26,9 @@ common:
     url: https://pandas.pydata.org/
   - type: Documentation
     url: https://pandas.pydata.org/docs/
-  - type: Getting Started
+  - type: GettingStarted
     url: https://pandas.pydata.org/docs/getting_started/index.html
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/pandas-dev/pandas
   - type: Community
     url: https://pandas.pydata.org/community/
