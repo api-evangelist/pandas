@@ -35,7 +35,7 @@ tags:
   - Data Analysis
   - Data Science
   - Library
-  - Open-Source
+  - Open Source
   - Python
 tags_raw:
   - Data Analysis
@@ -43,6 +43,7 @@ tags_raw:
   - Library
   - Open Source
   - Python
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/pandas/refs/heads/main/apis.yml
 created: '2026-03-16'
