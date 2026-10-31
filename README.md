@@ -1,4 +1,4 @@
-# pandas (pandas)
+# pandas
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,42 +66,81 @@
 
 pandas is a fast, powerful, flexible, and easy to use open source data analysis and manipulation tool, built on top of the Python programming language. It is a Python library that provides DataFrame and Series data structures and analysis tools; pandas itself does not expose an HTTP API, but is widely used to build data APIs alongside frameworks like FastAPI and Flask.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/pandas/refs/heads/main/apis.yml)
+**Areas:** Data Analysis · Data Science · Library · Open Source · Python
 
-## Scope
+## pandas on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for pandas is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pandas/](https://apis.io/providers/pandas/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Data Analysis
-- Data Science
-- Library
-- Open Source
-- Python
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Pandas Domain Security](https://apis.io/security/pandas/pandas-domain-security/)
 
-pandas is distributed as a Python library and does not provide a public HTTP API, so no API entries are listed in this profile. This repository is maintained as a tooling reference within the API Evangelist Network because pandas is foundational to many data API implementations and analytics workflows.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-| Property | URL |
-|----------|-----|
-| Website | https://pandas.pydata.org/ |
-| Documentation | https://pandas.pydata.org/docs/ |
-| Getting Started | https://pandas.pydata.org/docs/getting_started/index.html |
-| GitHub Organization | https://github.com/pandas-dev/pandas |
-| Community | https://pandas.pydata.org/community/ |
-| PyPI | https://pypi.org/project/pandas/ |
+- [Website](https://pandas.pydata.org/)
+- [Documentation](https://pandas.pydata.org/docs/)
+- [Getting started](https://pandas.pydata.org/docs/getting_started/index.html)
+- [Blog](https://pandas.pydata.org/community/blog/)
+- [GitHub](https://github.com/pandas-dev/pandas)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 8.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pandas/](https://apis.io/providers/pandas/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for pandas: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pandas/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
